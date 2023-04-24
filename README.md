@@ -2,7 +2,7 @@
 
 ![title](https://github.com/ChinmayDharwad24/ChatEase/blob/master/readme_images/title.jpg)
 
-This project is a chatbot built using React, CSS, HTML, Node.js, and MongoDB. The main NPM package used is "react-simple-chatbot". It includes both personal assistance and customer support features, allowing users to report issues and receive support.
+This project is a chatbot built using **React, CSS, HTML, Node.js, and MongoDB**. The main NPM package used is **"react-simple-chatbot"**. It includes both personal assistance and customer support features, allowing users to report issues and receive support.
 
 ### UI
 ------------
@@ -26,7 +26,8 @@ This project is a chatbot built using React, CSS, HTML, Node.js, and MongoDB. Th
 ### Installation and Usage
 --------------
 - Clone this repository
-- Install dependencies using 'npm install'
-- Start the server using 'npm start'
+- Install dependencies using 'npm install' in filepath ./app and ./backend
+- Start the server using 'npm start' in filepath ./app/src
+- Start the backend server using 'node server.js; in filepath ./backend
 - Visit http://localhost:3000 in your web browser to access the chatbot
 

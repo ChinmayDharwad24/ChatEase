@@ -807,7 +807,7 @@ function App() {
         paddingRight: "10px",
       }}
     >
-      <h3 style={{ marginRight: "auto" }}>Fitness App Chatbot</h3>
+      <h3 style={{ marginRight: "auto" }}>ChatEase</h3>
       {/* <Button
         style={{ color: "black", background: "white" }}
         onClick={handleReload}

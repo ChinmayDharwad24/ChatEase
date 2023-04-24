@@ -1,5 +1,8 @@
 # ChatEase
 
+![title](https://github.com/ChinmayDharwad24/ChatEase/blob/master/readme_images/title.jpg)
+
+
 
 ![landing](https://github.com/ChinmayDharwad24/ChatEase/blob/master/readme_images/landing.png)
 ![options](https://github.com/ChinmayDharwad24/ChatEase/blob/master/readme_images/options.png)

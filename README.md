@@ -1,2 +1,3 @@
 # ChatEase
-Chatbot for website
+
+![landing](https://github.com/ChinmayDharwad24/ChatEase/blob/master/readme_images/landing.png)

@@ -26,8 +26,8 @@ This project is a chatbot built using **React, CSS, HTML, Node.js, and MongoDB**
 ### Installation and Usage
 --------------
 - Clone this repository
-- Install dependencies using 'npm install' in filepath ./app and ./backend
-- Start the server using 'npm start' in filepath ./app/src
-- Start the backend server using 'node server.js; in filepath ./backend
+- Install dependencies using 'npm install' in filepath './app' and './backend'
+- Start the server using 'npm start' in filepath './app/src'
+- Start the backend server using 'node server.js; in filepath './backend'
 - Visit http://localhost:3000 in your web browser to access the chatbot
 
